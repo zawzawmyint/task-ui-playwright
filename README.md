@@ -1,4 +1,4 @@
-"### This app is a task manager application that allows users to create, update, and delete tasks. It also provides features such as task prioritization, due dates, and user authentication. This app is main fouced on testing with playwright.
+### This app is a task manager application that allows users to create, update, and delete tasks. It also provides features such as task prioritization, due dates, and user authentication. This app is main fouced on testing with playwright.
 
 ## Prerequisites
 
