@@ -7,6 +7,14 @@ Before running the application, make sure you have the following installed:
 - Node.js (v18+ recommended)
 - npm (v8+ recommended) or yarn/pnpm
 
+## Environment Variables
+
+Create a `.env` file in the root of the project and add the following variables:
+
+```bash
+VITE_API_URL=http://localhost:3001/api
+```
+
 ## Installation
 
 To set up the project locally, follow these steps:
