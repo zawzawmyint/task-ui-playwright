@@ -1,29 +1,9 @@
 {
-  "status": "failed",
+  "status": "interrupted",
   "failedTests": [
     "f349bac7159790f3ea9e-1c1ef7fb0dfa9329c64e",
     "f349bac7159790f3ea9e-901fc8032db18944d36a",
     "f349bac7159790f3ea9e-ed22f35c96aaa7ba4fb0",
-    "f349bac7159790f3ea9e-3d6509acedf6f40ccefe",
-    "7acce6041b13b0413cf5-35659c036d2ac33438d9",
-    "7acce6041b13b0413cf5-06ef30b21e58f3c9a21d",
-    "7acce6041b13b0413cf5-80aa56cde53bc3bc7585",
-    "7acce6041b13b0413cf5-1121fe4abd018be7913e",
-    "f349bac7159790f3ea9e-70bc6c24a451be7cc858",
-    "f349bac7159790f3ea9e-8017df74afddd2428f72",
-    "f349bac7159790f3ea9e-622cb50b399c0e147c7e",
-    "f349bac7159790f3ea9e-0692b1a7eb7526b2ebf8",
-    "7acce6041b13b0413cf5-4dc7588385d76ebc09ed",
-    "7acce6041b13b0413cf5-c5b21a25aa1f9e8500d7",
-    "7acce6041b13b0413cf5-9b5da1c7660c641a8318",
-    "7acce6041b13b0413cf5-d0198939d424bf217825",
-    "f349bac7159790f3ea9e-b75f8d91465ce21933ab",
-    "f349bac7159790f3ea9e-0e2df9517b949467e29b",
-    "f349bac7159790f3ea9e-58f2510fb6fa38d193c2",
-    "f349bac7159790f3ea9e-c4e403e13295b8d75074",
-    "7acce6041b13b0413cf5-8b84b9cc7a0c8a4fd060",
-    "7acce6041b13b0413cf5-ffcb78b8daca99088ea2",
-    "7acce6041b13b0413cf5-8bca874838a54bc1564c",
-    "7acce6041b13b0413cf5-1556a8875fbe9cd0ae6f"
+    "f349bac7159790f3ea9e-3d6509acedf6f40ccefe"
   ]
 }
